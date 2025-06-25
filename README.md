@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghav</h1>
-<h3 align="center">Full-Stack Engineer • ML Builder • Startup Optimist</h3>
+<h3 align="center">Full-Stack Engineer • AI / ML Builder • Startup Optimist</h3>
 
 <p align="center">From building AI-powered tools at startups to forecasting crypto trends with deep learning, I bring ideas to life with code and curiosity.</p>
 
