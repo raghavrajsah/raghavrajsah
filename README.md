@@ -6,11 +6,10 @@
 ---
 
 - 🔭 Currently building an AI solution for NDA automation at **Ozeki Technologies** — tackling a $5B+ bottleneck in legal ops  
-- 🚀 Previously built full-stack tools at [Celest (YC W23)](https://www.ycombinator.com/companies/celest) and visualized faculty research with Django + React at Colgate  
-- 🧠 Exploring **RAG, LLM apps**, and **ML systems** in production  
+- 🚀 Previously built full-stack tools at [Celest (YC W23)](https://www.ycombinator.com/companies/celest)
 - 🛠️ Projects at: [raghav-raj.info](https://raghav-raj.info)  
-- 🌱 Learning by shipping — recently led a 5-month Computer Vision capstone with an NVIDIA mentor  
-- 💬 Talk to me about: `Flutter`, `React`, `Spring`, `FastAPI`, `RAG`, or startup product strategy  
+- 🌱 Learning by shipping — recently led a 5-month Deep Learning capstone with an NVIDIA mentor  
+- 💬 Talk to me about: `LLM Systems`, `Vector Databases`, `RAG Pipelines`, `Multi-modal AI`, `Edge Deployment`, or scaling full-stack apps from zero to users  
 - ✈️ Fun fact: I travel to learn — from Silicon Valley to Budapest and everywhere in between  
 - 📫 Reach me here: [LinkedIn](https://www.linkedin.com/in/raghavrajsah/)
 
